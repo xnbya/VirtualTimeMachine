@@ -1,0 +1,13 @@
+G:\Alexis\Documents\Visual Studio 2010\Projects\VirtualTimeMachine\VirtualTimeMachine\bin\Debug\VirtualTimeMachine.exe
+G:\Alexis\Documents\Visual Studio 2010\Projects\VirtualTimeMachine\VirtualTimeMachine\bin\Debug\VirtualTimeMachine.pdb
+G:\Alexis\Documents\Visual Studio 2010\Projects\VirtualTimeMachine\VirtualTimeMachine\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Alexis\Documents\Visual Studio 2010\Projects\VirtualTimeMachine\VirtualTimeMachine\obj\x86\Debug\MainWindow.baml
+G:\Alexis\Documents\Visual Studio 2010\Projects\VirtualTimeMachine\VirtualTimeMachine\obj\x86\Debug\MainWindow.g.cs
+G:\Alexis\Documents\Visual Studio 2010\Projects\VirtualTimeMachine\VirtualTimeMachine\obj\x86\Debug\App.g.cs
+G:\Alexis\Documents\Visual Studio 2010\Projects\VirtualTimeMachine\VirtualTimeMachine\obj\x86\Debug\VirtualTimeMachine_MarkupCompile.cache
+G:\Alexis\Documents\Visual Studio 2010\Projects\VirtualTimeMachine\VirtualTimeMachine\obj\x86\Debug\VirtualTimeMachine.g.resources
+G:\Alexis\Documents\Visual Studio 2010\Projects\VirtualTimeMachine\VirtualTimeMachine\obj\x86\Debug\VirtualTimeMachine.Properties.Resources.resources
+G:\Alexis\Documents\Visual Studio 2010\Projects\VirtualTimeMachine\VirtualTimeMachine\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Alexis\Documents\Visual Studio 2010\Projects\VirtualTimeMachine\VirtualTimeMachine\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Alexis\Documents\Visual Studio 2010\Projects\VirtualTimeMachine\VirtualTimeMachine\obj\x86\Debug\VirtualTimeMachine.exe
+G:\Alexis\Documents\Visual Studio 2010\Projects\VirtualTimeMachine\VirtualTimeMachine\obj\x86\Debug\VirtualTimeMachine.pdb
